@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ilirgusija
-- 👀 I’m interested in machine learning, 
-- 🌱 I’m currently learning how to build and host a website using a variety of technologies
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mathematics, stochastic control and robotics, 
+- 🌱 I’m currently learning how to conduct mathematics research in an effective way,
+- 💞️ I’m looking to collaborate on anything cool!
 - 📫 How to reach me:
--     email: ilirgusija@gmail.com
+-     email: ilirgusija {at} gmail {dot} com
 
 <!---
 ilirgusija/ilirgusija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
